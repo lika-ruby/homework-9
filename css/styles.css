@@ -1,0 +1,12 @@
+:root {
+  --tansparent-white: rgba(255, 255, 255, 0.6);
+  --white: #ffffff;
+  --pale-grey: #eeeeee;
+  --light-grey: #ececec;
+  --grey: #757575;
+  --dark-grey: #212121;
+  --light-blue: #f5f4fa;
+  --blue: #2196f3;
+  --dark-blue: #2f303a;
+  --black: #000000;
+}
